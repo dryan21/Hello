@@ -1,5 +1,4 @@
 /**
- * Author: Dillon Ryan and partner
  * Author: Dillon Ryan and Joshua Preister
  * Date: 2019/08/27
  *
